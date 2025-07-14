@@ -1,7 +1,7 @@
- Overview
+📌 Overview
 This Power BI dashboard provides a comprehensive analysis of retail transaction data. The project aims to understand sales trends, product demand, and customer value, using interactive visualizations and calculated metrics. It serves as a practical example of how data visualization and business intelligence can support better decision-making.
 
-Dataset Description
+📁 Dataset Description
 The dataset contains real-world transactional data from an online retail store. It includes:
 
 InvoiceNo: Unique ID for each transaction
@@ -20,7 +20,7 @@ CustomerID: Unique customer identifier
 
 Country: Country of the customer
 
- Data Cleaning Steps
+🧹 Data Cleaning Steps
 Before analysis, the dataset was cleaned to ensure quality and accuracy:
 
 Removed Negative Quantities
@@ -37,7 +37,7 @@ Revenue = Quantity * UnitPrice
 
 Year and Month columns were extracted from InvoiceDate.
 
-Dashboard Features
+📊 Dashboard Features
 The Power BI dashboard includes the following visuals:
 
 1. Monthly Revenue Trend
