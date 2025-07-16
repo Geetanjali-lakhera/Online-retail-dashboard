@@ -1,6 +1,6 @@
 
 
-📁 Dataset Description
+
 The dataset contains real-world transactional data from an online retail store. It includes:
 
 InvoiceNo: Unique ID for each transaction
